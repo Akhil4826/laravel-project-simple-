@@ -1,7 +1,7 @@
 # Laravel Project: Simple CRUD Application
 
 <p align="center">
-  <img src="https://via.placeholder.com/150" alt="Laravel Project Logo" width="150px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel Logo" width="150">
 </p>
 
 ## 🚀 **Overview**
