@@ -5,7 +5,7 @@
 </p>
 
 ## 🚀 **Overview**
-This is a simple Laravel project demonstrating CRUD (Create, Read, Update, Delete) operations with a clean and intuitive interface. The project is designed to help users manage posts and users seamlessly. 
+This is a simple Laravel project.
 
 ---
 
