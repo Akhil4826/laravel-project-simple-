@@ -12,7 +12,6 @@ This is a simple Laravel project demonstrating CRUD (Create, Read, Update, Delet
 ## 🔑 **Key Features**
 
 - **User Authentication**: Register, log in, and manage sessions.
-- **Post Management**: Create, update, delete, and list posts.
 - **Database Integration**: Uses MySQL for data storage.
 - **Modular Design**: Clean separation of frontend and backend logic.
 - **Responsive Design**: Works seamlessly on different devices.
@@ -130,8 +129,6 @@ laravel-project-simple-
 - Register a new user by navigating to `/register`.
 - Log in using `/login`.
 
-### Post Management
-- After logging in, access `/posts` to create, edit, or delete posts.
 
 ---
 
